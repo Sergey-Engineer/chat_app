@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1045978794819",
+    "firebase_url": "https://golden-island-ea0de-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "golden-island-ea0de",
+    "storage_bucket": "golden-island-ea0de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045978794819:android:bbcc3bc971168399907df6",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045978794819-rnrg0trb55tdod3pnikvanfv3vfo8mte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwxv6Aa8DcwyxAvrbYv_Jllwk7HxRHHoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045978794819-rnrg0trb55tdod3pnikvanfv3vfo8mte.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045978794819:android:4069128b161f22a7907df6",
+        "android_client_info": {
+          "package_name": "golden.island"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045978794819-rnrg0trb55tdod3pnikvanfv3vfo8mte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwxv6Aa8DcwyxAvrbYv_Jllwk7HxRHHoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045978794819-rnrg0trb55tdod3pnikvanfv3vfo8mte.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
